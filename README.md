@@ -14,16 +14,16 @@ repo down to your computer.
 #Submitting your Solutions
 
 Once you're done, push your changes to GitHub and issue a pull request from your
-repository's master branch to your hackreactor branch.
+repository's master branch to your Telegraph Academy branch.
 
 #Updating the Repository
 
 Every morning, when a new toy problem is added, you'll need to sync your version of
-the repo with hackreactor's. Git won't automatically pull in upstream changes for
+the repo with Telegraph Academy's. Git won't automatically pull in upstream changes for
 you; it trusts that you'll pull them in as needed. Do so by giving Git a reference
-to hackreactor's version of the repo:
+to Telegraph Academy's version of the repo:
 
-    git remote add upstream https://github.com/hackreactor/2014-09-toy-problems.git
+    git remote add upstream https://github.com/telegraphacademy/2015-06-toy-problems.git
 
 After you've done that, updating your repo is as simple as running the following:
 
